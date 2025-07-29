@@ -79,7 +79,7 @@ header > button > img {
 }
 
 header > button > img:hover {
-    width: 30px;
+    transform: scale(1.2);
     box-shadow: 5px 10px 100px rgba(173, 173, 173, 0.7);
 }
 
